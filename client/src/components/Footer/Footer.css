@@ -1,0 +1,4 @@
+.bg-foot {
+    background: radial-gradient(closest-side at 50% 50%, maroon, black);
+    border-top: 1px solid #fff3;
+} 

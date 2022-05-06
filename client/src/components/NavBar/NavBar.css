@@ -1,0 +1,4 @@
+.bg-nav {
+    background: radial-gradient(closest-side at 50% 50%, maroon, black);
+    border-bottom: 1px solid #fff3;
+} 

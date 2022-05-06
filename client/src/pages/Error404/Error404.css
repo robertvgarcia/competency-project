@@ -1,0 +1,15 @@
+ .deadEnd {
+     font-size: 72px;
+     display: block;
+ } 
+
+ .card {
+     max-width: 600px;
+     margin: 0 auto;
+ }
+
+ #href {
+     background-color: #0009;
+     padding: 2px 5px;
+     border-radius: 5px;
+ }

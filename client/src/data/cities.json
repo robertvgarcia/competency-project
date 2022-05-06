@@ -1,0 +1,422 @@
+[
+    {
+        "_id": 91376,
+        "name": "Agoura Hills",
+        "rating": 0.06
+    },
+    {
+        "_id": 91802,
+        "name": "Alhambra",
+        "rating": 0.18
+    },
+    {
+        "_id": 91006,
+        "name": "Arcadia",
+        "rating": 0.1
+    },
+    {
+        "_id": 90701,
+        "name": "Artesia",
+        "rating": 0.36
+    },
+    {
+        "_id": 90005,
+        "name": "Avalon",
+        "rating": 0.34
+    },
+    {
+        "_id": 91702,
+        "name": "Azusa",
+        "rating": 0.47
+    },
+    {
+        "_id": 91706,
+        "name": "Baldwin Park",
+        "rating": 0.34
+    },
+    {
+        "_id": 90201,
+        "name": "Bell",
+        "rating": 0.62
+    },
+    {
+        "_id": 90706,
+        "name": "Bellflower",
+        "rating": 0.39
+    },
+    {
+        "_id": 90202,
+        "name": "Bell Gardens",
+        "rating": 0.29
+    },
+    {
+        "_id": 90210,
+        "name": "Beverly Hills",
+        "rating": 0.26
+    },
+    {
+        "_id": 90012,
+        "name": "Bradbury",
+        "rating": 0.00
+    },
+    {
+        "_id": 91510,
+        "name": "Burbank",
+        "rating": 0.23
+    },
+    {
+        "_id": 91372,
+        "name": "Calabasas",
+        "rating": 0.06
+    },
+    {
+        "_id": 90745,
+        "name": "Carson",
+        "rating": 0.56
+    },
+    {
+        "_id": 90703,
+        "name": "Cerritos",
+        "rating": 0.24
+    },
+    {
+        "_id": 91711,
+        "name": "Claremont",
+        "rating": 0.11
+    },
+    {
+        "_id": 90221,
+        "name": "Compton",
+        "rating": 1.24
+    },
+    {
+        "_id": 91722,
+        "name": "Covina",
+        "rating": 0.31
+    },
+    {
+        "_id": 90203,
+        "name": "Cudahy",
+        "rating": 0.62
+    },
+    {
+        "_id": 90230,
+        "name": "Culver City",
+        "rating": 0.45
+    },
+    {
+        "_id": 91765,
+        "name": "Diamond Bar",
+        "rating": 0.1
+    },
+    {
+        "_id": 90239,
+        "name": "Downey",
+        "rating": 0.34
+    },
+    {
+        "_id": 91009,
+        "name": "Duarte",
+        "rating": 0.33
+    },
+    {
+        "_id": 91734,
+        "name": "El Monte",
+        "rating": 0.34
+    },
+    {
+        "_id": 90245,
+        "name": "El Segundo",
+        "rating": 0.22
+    },
+    {
+        "_id": 90247,
+        "name": "Gardena",
+        "rating": 0.48
+    },
+    {
+        "_id": 91209,
+        "name": "Glendale",
+        "rating": 0.12
+    },
+    {
+        "_id": 91741,
+        "name": "Glendora",
+        "rating": 0.12
+    },
+    {
+        "_id": 90716,
+        "name": "Hawaiian Gardens",
+        "rating": 0.48
+    },
+    {
+        "_id": 90250,
+        "name": "Hawthorne",
+        "rating": 0.74
+    },
+    {
+        "_id": 90254,
+        "name": "Hermosa Beach",
+        "rating": 0.27
+    },
+    {
+        "_id": 90033,
+        "name": "Hidden Hills",
+        "rating": 0.00
+    },
+    {
+        "_id": 90255,
+        "name": "Huntington Park",
+        "rating": 0.63
+    },
+    {
+        "_id": 90301,
+        "name": "Inglewood",
+        "rating": 0.7
+    },
+    {
+        "_id": 91011,
+        "name": "La Canada Flintridge",
+        "rating": 0.06
+    },
+    {
+        "_id": 90631,
+        "name": "La Habra Heights",
+        "rating": 0.11
+    },
+    {
+        "_id": 90714,
+        "name": "Lakewood",
+        "rating": 0.28
+    },
+    {
+        "_id": 90638,
+        "name": "La Mirada",
+        "rating": 0.2
+    },
+    {
+        "_id": 93539,
+        "name": "Lancaster",
+        "rating": 0.54
+    },
+    {
+        "_id": 91747,
+        "name": "La Puente",
+        "rating": 0.3
+    },
+    {
+        "_id": 91750,
+        "name": "La Verne",
+        "rating": 0.16
+    },
+    {
+        "_id": 90260,
+        "name": "Lawndale",
+        "rating": 0.5
+    },
+    {
+        "_id": 90717,
+        "name": "Lomita",
+        "rating": 0.46
+    },
+    {
+        "_id": 90801,
+        "name": "Long Beach",
+        "rating": 0.58
+    },
+    {
+        "_id": 90086,
+        "name": "Los Angeles",
+        "rating": 0.48
+    },
+    {
+        "_id": 90262,
+        "name": "Lynwood",
+        "rating": 0.76
+    },
+    {
+        "_id": 90265,
+        "name": "Malibu",
+        "rating": 0.11
+    },
+    {
+        "_id": 90266,
+        "name": "Manhattan Beach",
+        "rating": 0.17
+    },
+    {
+        "_id": 90270,
+        "name": "Maywood",
+        "rating": 0.63
+    },
+    {
+        "_id": 91017,
+        "name": "Monrovia",
+        "rating": 0.22
+    },
+    {
+        "_id": 90640,
+        "name": "Montebello",
+        "rating": 0.23
+    },
+    {
+        "_id": 91754,
+        "name": "Monterey Park",
+        "rating": 0.12
+    },
+    {
+        "_id": 90650,
+        "name": "Norwalk",
+        "rating": 0.4
+    },
+    {
+        "_id": 93590,
+        "name": "Palmdale",
+        "rating": 0.52
+    },
+    {
+        "_id": 90274,
+        "name": "Palos Verdes Estates",
+        "rating": 0.04
+    },
+    {
+        "_id": 90723,
+        "name": "Paramount",
+        "rating": 0.44
+    },
+    {
+        "_id": 91109,
+        "name": "Pasadena",
+        "rating": 0.31
+    },
+    {
+        "_id": 90660,
+        "name": "Pico Rivera",
+        "rating": 0.41
+    },
+    {
+        "_id": 91769,
+        "name": "Pomona",
+        "rating": 0.67
+    },
+    {
+        "_id": 90275,
+        "name": "Rancho Palos Verdes",
+        "rating": 0.08
+    },
+    {
+        "_id": 90277,
+        "name": "Redondo Beach",
+        "rating": 0.28
+    },
+    {
+        "_id": 90063,
+        "name": "Rolling Hills",
+        "rating": 0.00
+    },
+    {
+        "_id": 90064,
+        "name": "Rolling Hills Estates",
+        "rating": 0.11
+    },
+    {
+        "_id": 91770,
+        "name": "Rosemead",
+        "rating": 0.26
+    },
+    {
+        "_id": 91773,
+        "name": "San Dimas",
+        "rating": 0.15
+    },
+    {
+        "_id": 91341,
+        "name": "San Fernando",
+        "rating": 0.32
+    },
+    {
+        "_id": 91778,
+        "name": "San Gabriel",
+        "rating": 0.22
+    },
+    {
+        "_id": 91108,
+        "name": "San Marino",
+        "rating": 0.1
+    },
+    {
+        "_id": 91380,
+        "name": "Santa Clarita",
+        "rating": 0.19
+    },
+    {
+        "_id": 90670,
+        "name": "Santa Fe Springs",
+        "rating": 0.6
+    },
+    {
+        "_id": 90401,
+        "name": "Santa Monica",
+        "rating": 0.43
+    },
+    {
+        "_id": 91025,
+        "name": "Sierra Madre",
+        "rating": 0.04
+    },
+    {
+        "_id": 90806,
+        "name": "Signal Hill",
+        "rating": 0.38
+    },
+    {
+        "_id": 91733,
+        "name": "South El Monte",
+        "rating": 0.43
+    },
+    {
+        "_id": 90280,
+        "name": "South Gate",
+        "rating": 0.58
+    },
+    {
+        "_id": 91030,
+        "name": "South Pasadena",
+        "rating": 0.1
+    },
+    {
+        "_id": 91780,
+        "name": "Temple City",
+        "rating": 0.11
+    },
+    {
+        "_id": 90503,
+        "name": "Torrance",
+        "rating": 0.13
+    },
+    {
+        "_id": 91788,
+        "name": "Walnut",
+        "rating": 0.13
+    },
+    {
+        "_id": 91790,
+        "name": "West Covina",
+        "rating": 0.26
+    },
+    {
+        "_id": 90069,
+        "name": "West Hollywood",
+        "rating": 0.97
+    },
+    {
+        "_id": 90083,
+        "name": "Westlake Village",
+        "rating": 0.04
+    },
+    {
+        "_id": 90605,
+        "name": "Whittier",
+        "rating": 0.29
+    }
+]
