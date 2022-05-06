@@ -64,4 +64,4 @@ A big thank you goes out to TLM Remote Instruction Team, TLM Academic Support Te
 
 ## Note ##
 
-As more data becomes available, the risk factor rating algorithm could be updated to better reflect the varying risks faced by those of certain racial/ethnic backgrounds in the different neighborhoods throughout each individual city.# competency-project
+As more data becomes available, the risk factor rating algorithm could be updated to better reflect the varying risks faced by those of certain racial/ethnic backgrounds in the different neighborhoods throughout each individual city.
