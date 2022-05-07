@@ -1,3 +1,4 @@
+Competency Project for The Last Mile Code.7370 program
 # GRASP
 
 Gang Risk Assessment and Suppression Program (GRASP) is an app that allows anyone in Los Angeles county to assess the risk of the children in their lives becoming involved with a gang, and offers advice on how to suppress that risk. Other cities and counties throughout the state and country will be added as the data/resources become available.
